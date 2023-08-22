@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  description = "Default resource group name that the ASG will be created in."
+  description = "Default resource group name"
   default     = "myapp-rg"
 }
 
